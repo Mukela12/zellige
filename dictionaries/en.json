@@ -1,0 +1,169 @@
+{
+  "brand": { "name": "Zellige", "tagline": "Morocco, arranged with care" },
+  "nav": {
+    "destinations": "Destinations",
+    "regions": "Regions",
+    "itineraries": "Itineraries",
+    "attractions": "Places",
+    "plan": "Plan your trip",
+    "home": "Home"
+  },
+  "common": {
+    "planTrip": "Plan your trip",
+    "explore": "Explore",
+    "viewItinerary": "View itinerary",
+    "viewRegion": "Explore the region",
+    "viewAttraction": "Read more",
+    "from": "From",
+    "perPerson": "per person",
+    "days": "days",
+    "nights": "nights",
+    "knownFor": "Known for",
+    "places": "places",
+    "bestTime": "Best time to visit",
+    "currency": "Currency",
+    "languages": "Languages",
+    "highlights": "Highlights",
+    "faqTitle": "Frequently asked questions",
+    "practicalInfo": "Good to know",
+    "nearby": "Nearby places",
+    "inThisRegion": "In this region",
+    "relatedItineraries": "Trips through here",
+    "dayByDay": "Day by day",
+    "whatsIncluded": "What's included",
+    "backToTop": "Back to top",
+    "loading": "Loading",
+    "readingTime": "min read"
+  },
+  "home": {
+    "heroKicker": "Small-group and tailor-made journeys",
+    "heroCtaPrimary": "Plan your trip",
+    "heroCtaSecondary": "Browse itineraries",
+    "introEyebrow": "Why Zellige",
+    "regionsEyebrow": "Where to go",
+    "regionsTitle": "Five regions, one country",
+    "regionsSubtitle": "From the red walls of Marrakech to the dunes at Merzouga, each region asks for a different pace.",
+    "itinerariesEyebrow": "Ready-made routes",
+    "itinerariesTitle": "Itineraries you can shape",
+    "itinerariesSubtitle": "Start from a proven route, then tell us what to change.",
+    "attractionsEyebrow": "Worth the detour",
+    "attractionsTitle": "Places travellers ask us about",
+    "ctaTitle": "Tell us how you like to travel",
+    "ctaBody": "Four short steps. A specialist replies within one working day with a route and a quote.",
+    "ctaButton": "Start planning"
+  },
+  "form": {
+    "title": "Plan your trip",
+    "subtitle": "Four short steps. No account needed.",
+    "stepOf": "Step {current} of {total}",
+    "steps": {
+      "trip": "Your trip",
+      "dates": "Dates & travellers",
+      "style": "Travel style",
+      "contact": "Your details"
+    },
+    "trip": {
+      "question": "How would you like to start?",
+      "tailorLabel": "Tailor-made",
+      "tailorHint": "Build a route from scratch with a specialist.",
+      "itineraryLabel": "From an itinerary",
+      "itineraryHint": "Start from one of our routes and adjust it.",
+      "regionLabel": "Which region draws you most?",
+      "itinerarySelect": "Which itinerary?",
+      "anyRegion": "Not sure yet"
+    },
+    "dates": {
+      "when": "When are you thinking of travelling?",
+      "startDate": "Start date",
+      "endDate": "End date",
+      "flexible": "My dates are flexible",
+      "travellers": "Who is travelling?",
+      "adults": "Adults",
+      "adultsHint": "12 and over",
+      "children": "Children",
+      "childrenHint": "2 to 11",
+      "infants": "Infants",
+      "infantsHint": "Under 2"
+    },
+    "style": {
+      "budget": "Budget per person",
+      "budgetBands": {
+        "under-1500": "Under $1,500",
+        "1500-3000": "$1,500 to $3,000",
+        "3000-5000": "$3,000 to $5,000",
+        "over-5000": "$5,000 and up"
+      },
+      "pace": "Preferred pace",
+      "paces": {
+        "relaxed": "Relaxed",
+        "balanced": "Balanced",
+        "packed": "See as much as possible"
+      },
+      "interests": "What are you most interested in?",
+      "interestsHint": "Pick as many as you like.",
+      "interestOptions": {
+        "history": "History & architecture",
+        "food": "Food & markets",
+        "desert": "Desert & dunes",
+        "coast": "Coast & seaside",
+        "mountains": "Mountains & hiking",
+        "photography": "Photography",
+        "shopping": "Souks & shopping",
+        "family": "Family friendly",
+        "wellness": "Riads & wellness"
+      }
+    },
+    "contact": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone (optional)",
+      "notes": "Anything else we should know? (optional)",
+      "notesPlaceholder": "Occasion, must-sees, dietary needs, anything at all."
+    },
+    "nav": { "back": "Back", "continue": "Continue", "submit": "Send my request", "submitting": "Sending" },
+    "errors": {
+      "required": "This field is required",
+      "email": "Enter a valid email address",
+      "region": "Choose a region or select tailor-made",
+      "itinerary": "Choose an itinerary",
+      "adults": "At least one adult is required",
+      "interests": "Pick at least one interest",
+      "generic": "Something went wrong. Please try again."
+    },
+    "summary": {
+      "trip": "Trip",
+      "dates": "Dates",
+      "travellers": "Travellers",
+      "budget": "Budget",
+      "pace": "Pace",
+      "interests": "Interests",
+      "flexibleDates": "Flexible dates"
+    },
+    "success": {
+      "title": "Request received",
+      "refLabel": "Your reference",
+      "body": "A Morocco specialist will reply within one working day with a suggested route and a quote.",
+      "next": "What happens next",
+      "step1": "We read your request and match it to a specialist.",
+      "step2": "You receive a tailored route and a clear quote by email.",
+      "step3": "We refine it together until the trip is right.",
+      "again": "Plan another trip"
+    }
+  },
+  "footer": {
+    "blurb": "A demo travel platform built to show data-driven SEO pages, a four-step planning flow, and clean CRM webhook handling.",
+    "explore": "Explore",
+    "company": "Company",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "rights": "This is a portfolio demo. Not a real travel agency.",
+    "builtWith": "Built with Next.js and PostgreSQL"
+  },
+  "notFound": {
+    "title": "We could not find that page",
+    "body": "The page may have moved, or the link may be incomplete.",
+    "cta": "Back to home"
+  }
+}

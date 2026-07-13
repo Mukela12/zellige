@@ -1,0 +1,169 @@
+{
+  "brand": { "name": "Zellige", "tagline": "Le Maroc, agencé avec soin" },
+  "nav": {
+    "destinations": "Destinations",
+    "regions": "Régions",
+    "itineraries": "Itinéraires",
+    "attractions": "Lieux",
+    "plan": "Planifier votre voyage",
+    "home": "Accueil"
+  },
+  "common": {
+    "planTrip": "Planifier votre voyage",
+    "explore": "Découvrir",
+    "viewItinerary": "Voir l'itinéraire",
+    "viewRegion": "Découvrir la région",
+    "viewAttraction": "En savoir plus",
+    "from": "À partir de",
+    "perPerson": "par personne",
+    "days": "jours",
+    "nights": "nuits",
+    "knownFor": "Réputée pour",
+    "places": "lieux",
+    "bestTime": "Meilleure période",
+    "currency": "Monnaie",
+    "languages": "Langues",
+    "highlights": "Points forts",
+    "faqTitle": "Questions fréquentes",
+    "practicalInfo": "Bon à savoir",
+    "nearby": "Lieux à proximité",
+    "inThisRegion": "Dans cette région",
+    "relatedItineraries": "Itinéraires qui passent par ici",
+    "dayByDay": "Jour par jour",
+    "whatsIncluded": "Ce qui est inclus",
+    "backToTop": "Haut de page",
+    "loading": "Chargement",
+    "readingTime": "min de lecture"
+  },
+  "home": {
+    "heroKicker": "Voyages en petit groupe et sur mesure",
+    "heroCtaPrimary": "Planifier votre voyage",
+    "heroCtaSecondary": "Voir les itinéraires",
+    "introEyebrow": "Pourquoi Zellige",
+    "regionsEyebrow": "Où aller",
+    "regionsTitle": "Cinq régions, un pays",
+    "regionsSubtitle": "Des remparts rouges de Marrakech aux dunes de Merzouga, chaque région appelle un rythme différent.",
+    "itinerariesEyebrow": "Routes prêtes à partir",
+    "itinerariesTitle": "Des itinéraires que vous façonnez",
+    "itinerariesSubtitle": "Partez d'une route éprouvée, puis dites-nous quoi changer.",
+    "attractionsEyebrow": "Le détour en vaut la peine",
+    "attractionsTitle": "Les lieux dont on nous parle le plus",
+    "ctaTitle": "Dites-nous comment vous aimez voyager",
+    "ctaBody": "Quatre étapes courtes. Un spécialiste répond sous un jour ouvré avec une route et un devis.",
+    "ctaButton": "Commencer"
+  },
+  "form": {
+    "title": "Planifier votre voyage",
+    "subtitle": "Quatre étapes courtes. Sans compte.",
+    "stepOf": "Étape {current} sur {total}",
+    "steps": {
+      "trip": "Votre voyage",
+      "dates": "Dates et voyageurs",
+      "style": "Style de voyage",
+      "contact": "Vos coordonnées"
+    },
+    "trip": {
+      "question": "Comment souhaitez-vous commencer ?",
+      "tailorLabel": "Sur mesure",
+      "tailorHint": "Construisez une route de zéro avec un spécialiste.",
+      "itineraryLabel": "À partir d'un itinéraire",
+      "itineraryHint": "Partez d'une de nos routes et ajustez-la.",
+      "regionLabel": "Quelle région vous attire le plus ?",
+      "itinerarySelect": "Quel itinéraire ?",
+      "anyRegion": "Je ne sais pas encore"
+    },
+    "dates": {
+      "when": "Quand envisagez-vous de partir ?",
+      "startDate": "Date de début",
+      "endDate": "Date de fin",
+      "flexible": "Mes dates sont flexibles",
+      "travellers": "Qui voyage ?",
+      "adults": "Adultes",
+      "adultsHint": "12 ans et plus",
+      "children": "Enfants",
+      "childrenHint": "2 à 11 ans",
+      "infants": "Bébés",
+      "infantsHint": "Moins de 2 ans"
+    },
+    "style": {
+      "budget": "Budget par personne",
+      "budgetBands": {
+        "under-1500": "Moins de 1 500 $",
+        "1500-3000": "1 500 $ à 3 000 $",
+        "3000-5000": "3 000 $ à 5 000 $",
+        "over-5000": "5 000 $ et plus"
+      },
+      "pace": "Rythme préféré",
+      "paces": {
+        "relaxed": "Tranquille",
+        "balanced": "Équilibré",
+        "packed": "Voir un maximum"
+      },
+      "interests": "Qu'est-ce qui vous intéresse le plus ?",
+      "interestsHint": "Choisissez autant que vous voulez.",
+      "interestOptions": {
+        "history": "Histoire et architecture",
+        "food": "Cuisine et marchés",
+        "desert": "Désert et dunes",
+        "coast": "Côte et bord de mer",
+        "mountains": "Montagnes et randonnée",
+        "photography": "Photographie",
+        "shopping": "Souks et shopping",
+        "family": "En famille",
+        "wellness": "Riads et bien-être"
+      }
+    },
+    "contact": {
+      "name": "Nom complet",
+      "email": "Courriel",
+      "phone": "Téléphone (facultatif)",
+      "notes": "Autre chose à nous dire ? (facultatif)",
+      "notesPlaceholder": "Occasion, incontournables, besoins particuliers, tout ce que vous voulez."
+    },
+    "nav": { "back": "Retour", "continue": "Continuer", "submit": "Envoyer ma demande", "submitting": "Envoi" },
+    "errors": {
+      "required": "Ce champ est requis",
+      "email": "Entrez une adresse courriel valide",
+      "region": "Choisissez une région ou sélectionnez sur mesure",
+      "itinerary": "Choisissez un itinéraire",
+      "adults": "Au moins un adulte est requis",
+      "interests": "Choisissez au moins un centre d'intérêt",
+      "generic": "Une erreur est survenue. Veuillez réessayer."
+    },
+    "summary": {
+      "trip": "Voyage",
+      "dates": "Dates",
+      "travellers": "Voyageurs",
+      "budget": "Budget",
+      "pace": "Rythme",
+      "interests": "Centres d'intérêt",
+      "flexibleDates": "Dates flexibles"
+    },
+    "success": {
+      "title": "Demande reçue",
+      "refLabel": "Votre référence",
+      "body": "Un spécialiste du Maroc répondra sous un jour ouvré avec une route suggérée et un devis.",
+      "next": "La suite",
+      "step1": "Nous lisons votre demande et l'associons à un spécialiste.",
+      "step2": "Vous recevez une route sur mesure et un devis clair par courriel.",
+      "step3": "Nous l'affinons ensemble jusqu'à ce que le voyage soit parfait.",
+      "again": "Planifier un autre voyage"
+    }
+  },
+  "footer": {
+    "blurb": "Une plateforme de voyage de démonstration montrant des pages SEO pilotées par les données, un parcours de planification en quatre étapes et une gestion propre des webhooks CRM.",
+    "explore": "Découvrir",
+    "company": "Entreprise",
+    "about": "À propos",
+    "contact": "Contact",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "rights": "Ceci est une démo de portfolio. Pas une véritable agence de voyage.",
+    "builtWith": "Conçu avec Next.js et PostgreSQL"
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "body": "La page a peut-être été déplacée, ou le lien est incomplet.",
+    "cta": "Retour à l'accueil"
+  }
+}
